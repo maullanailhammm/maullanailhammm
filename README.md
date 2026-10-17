@@ -1,5 +1,9 @@
-## Hi there 👋
+![GitHub header banner](./img/github-header-banner.png)
 
+
+## 📫 Kontak
+- LinkedIn: [linkedin.com/in/maullanailham](https://linkedin.com/in/maullanailham)
+- Email: maullanailham65@gmail.com
 <!--
 **maullanailhammm/maullanailhammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
