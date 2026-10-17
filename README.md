@@ -1,6 +1,16 @@
 ![GitHub header banner](./img/github-header-banner.png)
 
 
+
+##### Skills
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
 ## 📫 Kontak
 - LinkedIn: [linkedin.com/in/maullanailham](https://linkedin.com/in/maullanailham)
 - Email: maullanailham65@gmail.com
