@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./img/banner.svg" alt="Maullana Ilha Ar Rosyiid Mariandi - Web Developer & Data Science Enthusiast" width="100%" />
+  <a href="https://maullanailhammm.github.io/Portofolio-Maullana/">
+    <img src="./img/banner.svg" alt="Maullana Ilham Ar Rosyiid Mariandi - Web Developer & Data Science Enthusiast" width="100%" />
+  </a>
 </p>
 
 <p align="center">
@@ -94,7 +96,7 @@ Classification model to predict crop yield category (Low / Medium / High) from c
 
 ## 🎓 Education
 
-**Universitas Muhammadiyah Malang** — B.Sc. Informatics, GPA **3.61 / 4.00** *(Sep 2023 – Now, expected)*
+**Universitas Muhammadiyah Malang** — B.Sc. Informatics, GPA **3.61 / 4.00** *(Sep 2023 – Jul 2027, expected)*
 
 Relevant courses: Data Mining · Natural Language Processing · Data Modeling & Simulation · Artificial Intelligence · Database · Data Structures · Statistics & Probability
 
@@ -105,16 +107,16 @@ Relevant courses: Data Mining · Natural Language Processing · Data Modeling & 
 ## 📈 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maullanailhammm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maullanailhammm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=24&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maullanailhammm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -137,7 +139,3 @@ I'm looking for an **internship in Web Development or Data Science**. Feel free 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="90" height="40" alt="spotify logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="90" height="40" alt="visualstudio logo"  />
 </div>
-
-<p align="center">
-  <img src="./assets/spidey.png" alt="Chibi Spidey" width="120" />
-</p>
