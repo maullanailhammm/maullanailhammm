@@ -17,7 +17,7 @@
   <br />
   <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-ff2d55?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=maullanailhammm&color=ff2d55&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maullanailhammm&label=Profile%20Views&color=ff2d55&style=flat-square&v=2" alt="Profile views" />
 </p>
 
 ---
