@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-FF2D55?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-ff2d55?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
   <a href="https://linkedin.com/in/maullanailham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:maullanailham65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=maullanailhammm&label=Profile%20Views&color=ff2d55&style=flat-square" alt="Profile views" />
@@ -26,7 +26,7 @@
 class Allan:
     name       = "Maullana Ilham Ar Rosyiid Mariandi"
     location   = "Sidoarjo, East Java 🇮🇩"
-    education  = "B.Sc. Informatics @ Universitas Muhammadiyah Malang (GPA 3.61/4.00)"
+    education  = "Informatics Student @ Universitas Muhammadiyah Malang (GPA 3.61/4.00)"
     focus      = ["Web Development", "Data Science"]
     stack      = ["Laravel", "REST API", "JWT", "Python", "Scikit-learn"]
     looking_for = "Internship in Web Development or Data Science 🚀"
@@ -89,23 +89,11 @@ Text classification model for **40,000+** food and agriculture regulation docume
 Classification model to predict crop yield category (Low / Medium / High) from climate, environment, farming practice, and soil data (Kaggle dataset, 10,000 rows × 15 columns).
 - Preprocessing: missing/duplicate checks, encoding, standardization, feature selection
 - Compared **Decision Tree (59.2%)** vs **Gaussian Naive Bayes (65.35%)** with an 80:20 split
-
-> 🔗 Add repository links to each project, e.g. `[View repo](https://github.com/maullanailhammm/repo-name)`.
-
----
-
-## 💼 Experience
-
-| Role | Where | Period | Highlights |
-| :-- | :-- | :-- | :-- |
-| **Equipment Coordinator**, J-Fest (Jambangan Festival) VOL 1 | KKN Berdampak UMM, Jambangan Village, Malang | Jul – Aug 2025 | Coordinated festival logistics (sound system, stage, MSME stands) across **8 divisions** for **1,000+ visitors**; opened promotion space for local MSMEs |
-| **Campus Representative**, Campus Expo | SMA Muhammadiyah 2 Sidoarjo | Jan 2024 | Presented study programs, admission paths, and campus life to prospective students through booth and Q&A sessions |
-
 ---
 
 ## 🎓 Education
 
-**Universitas Muhammadiyah Malang** — B.Sc. Informatics, GPA **3.61 / 4.00** *(Sep 2023 – Jul 2027, expected)*
+**Universitas Muhammadiyah Malang** — Informatics Student, GPA **3.61 / 4.00** *(Sep 2023 – Now)*
 
 Relevant courses: Data Mining · Natural Language Processing · Data Modeling & Simulation · Artificial Intelligence · Database · Data Structures · Statistics & Probability
 
@@ -116,7 +104,7 @@ Relevant courses: Data Mining · Natural Language Processing · Data Modeling & 
 ## 📈 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maullanailhammm&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=24&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
@@ -135,7 +123,7 @@ Relevant courses: Data Mining · Natural Language Processing · Data Modeling & 
 I'm looking for an **internship in Web Development or Data Science**. Feel free to reach out!
 
 <p align="center">
-  <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF2D55?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-ff2d55?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
 </p>
 
 <br clear="both">
