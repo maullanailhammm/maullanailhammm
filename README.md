@@ -12,10 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/maullanailham"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:maullanailham65@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
+  <br />
   <a href="https://maullanailhammm.github.io/Portofolio-Maullana/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-ff2d55?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
-  <a href="https://linkedin.com/in/maullanailham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:maullanailham65@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=maullanailhammm&label=Profile%20Views&color=ff2d55&style=flat-square" alt="Profile views" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=maullanailhammm&color=ff2d55&style=flat-square" alt="Profile views" />
 </p>
 
 ---
