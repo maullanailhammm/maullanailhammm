@@ -94,6 +94,15 @@ Classification model to predict crop yield category (Low / Medium / High) from c
 
 ---
 
+## 💼 Experience
+
+| Role | Where | Period | Highlights |
+| :-- | :-- | :-- | :-- |
+| **Equipment Coordinator**, J-Fest (Jambangan Festival) VOL 1 | KKN Berdampak UMM, Jambangan Village, Malang | Jul – Aug 2025 | Coordinated festival logistics (sound system, stage, MSME stands) across **8 divisions** for **1,000+ visitors**; opened promotion space for local MSMEs |
+| **Campus Representative**, Campus Expo | SMA Muhammadiyah 2 Sidoarjo | Jan 2024 | Presented study programs, admission paths, and campus life to prospective students through booth and Q&A sessions |
+
+---
+
 ## 🎓 Education
 
 **Universitas Muhammadiyah Malang** — B.Sc. Informatics, GPA **3.61 / 4.00** *(Sep 2023 – Jul 2027, expected)*
@@ -107,16 +116,16 @@ Relevant courses: Data Mining · Natural Language Processing · Data Modeling & 
 ## 📈 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maullanailhammm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maullanailhammm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=24&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maullanailhammm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ---
