@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2D55&center=true&vCenter=true&width=700&lines=Laravel+%7C+REST+API+%7C+JWT;Machine+Learning+%26+NLP+with+Python;Informatics+Student+%E2%80%A2+GPA+3.61%2F4.00;Open+to+Web+Dev+%26+Data+Science+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2D55&center=true&vCenter=true&width=700&lines=Laravel+%7C+REST+API+%7C+JWT;Machine+Learning+%26+NLP+with+Python;Informatics+Student+%E2%80%A2;Open+to+Web+Dev+%26+Data+Science+Internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 class Allan:
     name       = "Maullana Ilham Ar Rosyiid Mariandi"
     location   = "Sidoarjo, East Java 🇮🇩"
-    education  = "Informatics Student @ Universitas Muhammadiyah Malang (GPA 3.61/4.00)"
+    education  = "Informatics Student @ Universitas Muhammadiyah Malang"
     focus      = ["Web Development", "Data Science"]
     stack      = ["Laravel", "REST API", "JWT", "Python", "Scikit-learn"]
     looking_for = "Internship in Web Development or Data Science 🚀"
@@ -95,7 +95,7 @@ Classification model to predict crop yield category (Low / Medium / High) from c
 
 ## 🎓 Education
 
-**Universitas Muhammadiyah Malang** — Informatics Student, GPA **3.61 / 4.00** *(Sep 2023 – Now)*
+**Universitas Muhammadiyah Malang** — Informatics Student** *(Sep 2023 – Now)*
 
 Relevant courses: Data Mining · Natural Language Processing · Data Modeling & Simulation · Artificial Intelligence · Database · Data Structures · Statistics & Probability
 
