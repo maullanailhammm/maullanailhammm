@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./img/banner.svg" alt="Maullana Ilham - Web Developer & Data Science Enthusiast" width="100%" />
+  <img src="./img/banner.svg" alt="Maullana Ilha Ar Rosyiid Mariandi - Web Developer & Data Science Enthusiast" width="100%" />
 </p>
 
 <p align="center">
