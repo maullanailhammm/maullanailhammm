@@ -106,16 +106,30 @@ Relevant courses: Data Mining · Natural Language Processing · Data Modeling & 
 ## 📈 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maullanailhammm&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=24&order=3" height="150" alt="streak graph"  />
+  <table>
+    <tr>
+      <td align="center">
+        <h3>⭐ Stats Overview</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=maullanailhammm&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+      </td>
+      <td align="center">
+        <h3>💻 Top Languages</h3>
+        <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/languages-output/languages.svg" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 
----
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://streak-stats.demolab.com?user=maullanailhammm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=24&order=3" height="150" alt="streak graph" />
 
-  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <hr />
+
+  <h3>📊 Contribution Activity</h3>
+  <img src="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph" />
 </div>
 
 ---
+<h3 align="center">🎮 Contribution Pac-Man</h3>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maullanailhammm/maullanailhammm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
